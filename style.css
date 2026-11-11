@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:0;background:#f4f6fb;color:#18243a;font:16px/1.65 system-ui}main{max-width:760px;margin:10vh auto;padding:32px}h1{font-size:clamp(2.5rem,7vw,5rem);line-height:1.05}h1 span,.tag{color:#3266d5}.intro{font-size:1.25rem;color:#52627b}a{color:#2459bf}li{margin:12px 0}
